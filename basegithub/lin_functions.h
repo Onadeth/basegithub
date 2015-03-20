@@ -17,7 +17,7 @@ int fuck_word (int n)
     int i = 0;
     
     for (i = 0; i < n; i++) {
-        printf ("fuck \n");
+        printf ("fuck ");
     }
     
     return 0;
