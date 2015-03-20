@@ -13,7 +13,7 @@ int fuck_word (int n);
 
 int main(int argc, const char * argv[]) {
     
-    fuck_word (7);
+    fuck_word (8);
     
     return 0;
 }
