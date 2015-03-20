@@ -7,9 +7,13 @@
 //
 
 #include <stdio.h>
+#include "lin_functions.h"
+
+int fuck_word (int n);
 
 int main(int argc, const char * argv[]) {
-    // insert code here...
-    printf("we4werwerwerwerwer\n");
+    
+    fuck_word (5);
+    
     return 0;
 }
