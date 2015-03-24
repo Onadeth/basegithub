@@ -9,6 +9,8 @@
 #include <stdio.h>
 #include "lin_functions.h"
 
+
+
 int fuck_word (int n);
 
 int main(int argc, const char * argv[]) {
